@@ -1,14 +1,17 @@
-### 👋 Hello, I am Volkan 
-
+### 👋 About Me
 ![](https://komarev.com/ghpvc/?username=volkanozsarac&style=flat)
-[![Generic badge](https://img.shields.io/badge/About_Me-CV-blueviolet.svg)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABM71BUBMtu5tXmXTeRF3VSlmMnmyZ9Y6-M,1635465185225)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bp6O83zVPQtKB58QjEqiL%2FQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
+[![Generic badge](https://img.shields.io/badge/-Curriculum_Vitae-blueviolet.svg)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABM71BUBMtu5tXmXTeRF3VSlmMnmyZ9Y6-M,1635465185225)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bp6O83zVPQtKB58QjEqiL%2FQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
 
-I am a PhD student enrolled in The UME (Understanding and Managing Extremes) Programme offered by Scuola Universitaria Superiore (IUSS) di Pavia (University School of Advanced Studies, Pavia). 
+Hello, I am Volkan. I am a PhD student enrolled in The UME (Understanding and Managing Extremes) Programme offered by Scuola Universitaria Superiore (IUSS) di Pavia (University School of Advanced Studies, Pavia). 
 
 - 🔭 My main area of expertise is Earthquake Engineering and Engineering Seismology.
 - 🤝 I’m looking to collaborate on development of tools regarding seismic design and risk assessment, as well as anything related to python, AI and UI.
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I am open for any discussion, so even if you'd like to say just hi feel free to contact me.
+
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Contact
+
+### 💬 Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:volkan.ozsarac@iusspavia.it)
