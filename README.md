@@ -8,13 +8,15 @@ I am a PhD student enrolled in The UME (Understanding and Managing Extremes) Pro
 - 🔭 My main area of expertise is Earthquake Engineering and Engineering Seismology.
 - 🤝 I’m looking to collaborate on development of tools regarding seismic design and risk assessment, as well as anything related to python, AI and UI.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> If you want to find out more about my work or just want to say hi, feel free to contact me!
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Feel free to contact me!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:volkan.ozsarac@iusspavia.it)
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Find about my research!
+
 [![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-5340-6528)
 [![Researchgate](https://img.shields.io/badge/-ResearchGate-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Volkan-Ozsarac)
-
 
 ### 📌 Pinned Projects
 [![PyPI version fury.io](https://badge.fury.io/py/EzGM.svg)](https://pypi.python.org/pypi/EzGM/)
