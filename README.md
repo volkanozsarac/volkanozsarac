@@ -8,10 +8,7 @@ Hello, I am Volkan. I am a PhD student enrolled in The UME (Understanding and Ma
 - 🤝 I’m looking to collaborate on development of tools regarding seismic design and risk assessment, as well as anything related to python, AI and UI.
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I am open for any discussion, so even if you'd like to say just hi feel free to contact me.
 
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Contact
-
-### 💬 Contact
+### 💬 Contact Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:volkan.ozsarac@iusspavia.it)
