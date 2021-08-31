@@ -4,9 +4,9 @@
 
 Hello, I am Volkan. I am a PhD student enrolled in The UME (Understanding and Managing Extremes) Programme offered by Scuola Universitaria Superiore (IUSS) di Pavia (University School of Advanced Studies, Pavia). 
 
-- 🔭 My main area of expertise is Earthquake Engineering and Engineering Seismology.
-- 🤝 I’m looking to collaborate on development of tools regarding seismic design and risk assessment, as well as anything related to python, AI and UI.
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I am open for any discussion, so even if you'd like to say just hi feel free to contact me.
+- My main area of expertise is Earthquake Engineering and Engineering Seismology.
+- I’m looking to collaborate on development of tools regarding seismic design and risk assessment, as well as anything related to python, AI and UI.
+- I am open for any discussion, so even if you'd like to say just hi feel free to contact me.
 
 ### 💬 Contact
 
