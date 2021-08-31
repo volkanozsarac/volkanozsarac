@@ -36,6 +36,6 @@ I am a PhD student enrolled in The UME (Understanding and Managing Extremes) Pro
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=volkanozsarac&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 </a>
 
-## 🎁 Support me
+## 🎁 Support
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/1mHb6RLi6uqgTzDfP6ASJwtyLfbRKGZDF)](https://en.cryptobadges.io/donate/1mHb6RLi6uqgTzDfP6ASJwtyLfbRKGZDF)
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xdf8819dcc1ad3ecf4f422181d1bf3a07659fb116)](https://en.cryptobadges.io/donate/0xdf8819dcc1ad3ecf4f422181d1bf3a07659fb116)
