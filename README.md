@@ -25,7 +25,7 @@ Hello, I am Volkan. I am a PhD student enrolled in The UME (Understanding and Ma
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=volkanozsarac&repo=EzGM&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Programming
 <a href="https://github.com/volkanozsarac">
   <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=volkanozsarac&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
 </a>
