@@ -18,7 +18,7 @@ Hello, I am Volkan. I am a PhD student enrolled in The UME (Understanding and Ma
 [![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-5340-6528)
 [![Researchgate](https://img.shields.io/badge/-ResearchGate-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Volkan-Ozsarac)
 
-### 📁 Installable Packages (PyPI)
+### 📁 PyPI Packages
 [![PyPI version fury.io](https://badge.fury.io/py/EzGM.svg)](https://pypi.python.org/pypi/EzGM/)
 
 <a href="https://github.com/volkanozsarac/EzGM">
