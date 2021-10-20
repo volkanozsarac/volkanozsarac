@@ -1,6 +1,6 @@
 ### 👋 About Me
 ![](https://komarev.com/ghpvc/?username=volkanozsarac&style=flat)
-[![Generic badge](https://img.shields.io/badge/-Curriculum_Vitae-blueviolet.svg)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABM71BUBMtu5tXmXTeRF3VSlmMnmyZ9Y6-M,1635465185225)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bp6O83zVPQtKB58QjEqiL%2FQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
+[![Generic badge](https://img.shields.io/badge/-Curriculum_Vitae-blueviolet.svg)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABM71BUBMtu5tXmXTeRF3VSlmMnmyZ9Y6-M,1635472394810)/)
 
 Hello, I am Volkan. I am a PhD student enrolled in The UME (Understanding and Managing Extremes) Programme offered by Scuola Universitaria Superiore (IUSS) di Pavia (University School of Advanced Studies, Pavia). 
 
