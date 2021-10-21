@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=volkanozsarac&style=flat)
 [![Generic badge](https://img.shields.io/badge/-Curriculum_Vitae-blueviolet.svg)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABM71BUBMtu5tXmXTeRF3VSlmMnmyZ9Y6-M,1635472394810)/)
 
-Hello, I am Volkanö a PhD student enrolled in the UME (Understanding and Managing Extremes) Programme offered by Scuola Universitaria Superiore (IUSS) di Pavia (University School of Advanced Studies, IUSS Pavia). 
+Hello, I am Volkanö a PhD student enrolled in the UME (Understanding and Managing Extremes) Programme offered by Istituto Universitario di Studi Superiori (IUSS) di Pavia (University School for Advanced Studies of Pavia). 
 
 - My main area of expertise is Earthquake Engineering and Engineering Seismology.
 - I’m looking to collaborate on development of tools regarding seismic design and risk assessment, as well as anything related to python, AI and UI.
