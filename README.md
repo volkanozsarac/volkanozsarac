@@ -39,3 +39,5 @@ Hello, I am Volkan, a PhD student enrolled in the UME (Understanding and Managin
 ### 🎁 Support
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/1mHb6RLi6uqgTzDfP6ASJwtyLfbRKGZDF)](https://en.cryptobadges.io/donate/1mHb6RLi6uqgTzDfP6ASJwtyLfbRKGZDF)
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xdf8819dcc1ad3ecf4f422181d1bf3a07659fb116)](https://en.cryptobadges.io/donate/0xdf8819dcc1ad3ecf4f422181d1bf3a07659fb116)
+
+<a href="http://paypal.me/rvolkanyozsarach" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg" alt="Paypal" style="height: auto !important;width: auto !important;" ></a>
