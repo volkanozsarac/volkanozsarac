@@ -1,7 +1,6 @@
 ### 👋 About Me
 ![](https://komarev.com/ghpvc/?username=volkanozsarac&style=flat)
-[![Generic badge](https://img.shields.io/badge/-Curriculum_Vitae-blueviolet.svg)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/details/featured/1635507537888/single-media-viewer/)
-
+[![Generic badge](https://img.shields.io/badge/-Curriculum_Vitae-blueviolet.svg)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/overlay/1635548493465/single-media-viewer/)
 Hello, I am Volkan, a post-doctoral researcher at [Eucentre Foundation](https://www.eucentre.it/?lang=en).
 
 - My main area of expertise is Earthquake Engineering and Engineering Seismology.
