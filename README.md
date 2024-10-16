@@ -17,13 +17,6 @@ Hello, I am Volkan, a post-doctoral researcher at [Eucentre Foundation](https://
 [![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-5340-6528)
 [![Researchgate](https://img.shields.io/badge/-ResearchGate-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Volkan-Ozsarac)
 
-### 📁 PyPI Packages
-[![PyPI version fury.io](https://badge.fury.io/py/EzGM.svg)](https://pypi.python.org/pypi/EzGM/)
-
-<a href="https://github.com/volkanozsarac/EzGM">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=volkanozsarac&repo=EzGM&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Programming
 <a href="https://github.com/volkanozsarac">
   <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=volkanozsarac&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
@@ -36,4 +29,4 @@ Hello, I am Volkan, a post-doctoral researcher at [Eucentre Foundation](https://
 </a>
 
 ### 🎁 Support
-<a href="http://paypal.me/volkanozs" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg" alt="Paypal" style="height: auto !important;width: auto !important;" ></a>
+<a href="http://paypal.me/VolkanOzsarac" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg" alt="Paypal" style="height: auto !important;width: auto !important;" ></a>
