@@ -1,4 +1,4 @@
-### 👋 About Me
+### 👋 About
 ![](https://komarev.com/ghpvc/?username=volkanozsarac&style=flat)
 
 Hello, I am Volkan, a post-doctoral researcher at [IUSS Pavia](https://www.iusspavia.it/en) and an affiliated researcher at [Eucentre](https://www.eucentre.it/?lang=en).
