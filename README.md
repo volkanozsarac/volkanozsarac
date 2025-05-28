@@ -1,12 +1,11 @@
 ### 👋 About Me
 ![](https://komarev.com/ghpvc/?username=volkanozsarac&style=flat)
-[![Generic badge](https://img.shields.io/badge/-Curriculum_Vitae-blueviolet.svg)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/overlay/1635548493465/single-media-viewer/)
 
-Hello, I am Volkan, a post-doctoral researcher at [IUSS Pavia](https://www.iusspavia.it/en).
+Hello, I am Volkan, a post-doctoral researcher at [IUSS Pavia](https://www.iusspavia.it/en) and an affiliated researcher at [Eucentre](https://www.eucentre.it/?lang=en).
 
-- My main area of expertise is Earthquake Engineering and Engineering Seismology.
-- I’m looking to collaborate on development of tools regarding seismic design and risk assessment, as well as anything related to python, AI and UI.
-- I am open for any discussion, so even if you'd like to say just hi feel free to contact me.
+- My expertise lies in Earthquake Engineering and Engineering Seismology.
+- I'm particularly interested in collaborating on the development of tools for seismic design and risk assessment, as well as projects involving Python, AI, and user interfaces.
+- I'm always open to new ideas and discussions, even if you just want to say hi, feel free to reach out!
 
 ### 💬 Contact
 
@@ -17,6 +16,7 @@ Hello, I am Volkan, a post-doctoral researcher at [IUSS Pavia](https://www.iussp
 
 [![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-5340-6528)
 [![Researchgate](https://img.shields.io/badge/-ResearchGate-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Volkan-Ozsarac)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=wMUE8PMAAAAJ&hl=en)
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Programming
 <a href="https://github.com/volkanozsarac">
