@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=volkanozsarac&style=flat)
 [![Generic badge](https://img.shields.io/badge/-Curriculum_Vitae-blueviolet.svg)](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/overlay/1635548493465/single-media-viewer/)
 
-Hello, I am Volkan, a post-doctoral researcher at [IUSS Pavia]([https://www.eucentre.it/?lang=en](https://www.iusspavia.it/en)).
+Hello, I am Volkan, a post-doctoral researcher at [IUSS Pavia](https://www.iusspavia.it/en).
 
 - My main area of expertise is Earthquake Engineering and Engineering Seismology.
 - I’m looking to collaborate on development of tools regarding seismic design and risk assessment, as well as anything related to python, AI and UI.
